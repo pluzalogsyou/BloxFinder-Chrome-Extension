@@ -67,7 +67,6 @@ Works on catalog items that have a template asset. UGC / layered clothing that d
 | `storage` | Save settings |
 | `*://*.roblox.com/*` | Run on Roblox pages and call Roblox APIs the site already uses |
 
-That is the full original set. No `cookies`, no `<all_urls>`, no extra hosts.
 
 ---
 
